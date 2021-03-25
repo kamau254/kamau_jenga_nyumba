@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">kamau</string>
+    <string name="phone">Phone</string>
+    <string name="create_an_account">Create an Account?</string>
+    <string name="lastname">LastName</string>
+    <string name="firstname">FirstName</string>
+    <string name="log_in">LOG IN</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="email_" tools:ignore="DuplicateDefinition">Email</string>
+    <string name="confirmpassword">ConfirmPassword</string>
+    <string name="password_" tools:ignore="DuplicateDefinition">Password</string>
+    <string name="town">Town</string>
+    <string name="sign_up_" tools:ignore="DuplicateDefinition">Sign Up</string>
+    <string name="email" tools:ignore="DuplicateDefinition">Email</string>
+    <string name="password" tools:ignore="DuplicateDefinition">Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_in_" tools:ignore="DuplicateDefinition">SIGN IN</string>
+    <string name="todo_">TODO</string>
+    <string name="welcome_to_the_jenga_nyumba_family">WELCOME TO THE JENGA NYUMBA FAMILY</string>
+    <string name="already_have_an_Account">Already have an Account?</string>
+    <string name="sign_in" tools:ignore="DuplicateDefinition">SIGN IN</string>
+    <string name="don_t_have_an_Account">Don\'t have an Account?</string>
+    <string name="sign_up" tools:ignore="DuplicateDefinition">Sign Up</string>
+    <string name="todo" tools:ignore="DuplicateDefinition">TODO</string>
+</resources>
